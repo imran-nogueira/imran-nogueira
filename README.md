@@ -24,7 +24,14 @@ Looking for an **internship from April 2027**, then a **work-study position for 
 
 #### Stack
 
-Python · FastAPI · scikit-learn · pandas · TypeScript · Next.js · React · Node.js · PostgreSQL · Docker · RAG & embeddings
+| | Proficient | Working knowledge |
+|---|---|---|
+| **Languages** | Python · TypeScript · JavaScript | Java |
+| **AI & data** | RAG · vector databases | LLM APIs · local LLMs (Ollama) · prompt engineering · embeddings · NLP · pandas · scikit-learn · Streamlit |
+| **Backend** | FastAPI · Node.js / Express · API security hardening | n8n |
+| **Frontend** | React · Next.js · HTML / CSS | Tailwind CSS · Vite |
+| **Databases** | PostgreSQL | MongoDB · MySQL · Supabase |
+| **Engineering** | Docker · Git · automated testing | |
 
 #### Contact
 
