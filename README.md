@@ -8,19 +8,19 @@ Looking for an **internship from April 2027**, then a **work-study position for 
 
 | Project | What it is |
 |---|---|
-| [Enterprise RAG Platform](https://github.com/imran-nogueira/enterprise-rag-platform) | AI assistant over a company's internal documents, built solo and shipped to production during my internship |
-| [Job Aggregator](https://github.com/imran-nogueira/job-aggregator) | Fullstack job board with a semantic-search AI microservice |
-| [CVRIE](https://github.com/imran-nogueira/cvrie-medical-ai) | Clustering 1,011 patient testimonials + skin-lesion classification |
-| [Alfred](https://github.com/imran-nogueira/alfred-llm-concierge) | Restaurant concierge bot on a local LLM (Ollama), Telegram + Discord |
-| [brain-mcp](https://github.com/imran-nogueira/brain-mcp) | Read-only MCP server exposing a personal knowledge base to Claude — open source |
-| [vps-dashboard](https://github.com/imran-nogueira/vps-dashboard) | Minimal Hetzner VPS dashboard with a zero-dependency agent — open source |
+| [Enterprise RAG Platform](https://github.com/imran-nogueira/enterprise-rag-platform) | An internal AI assistant for a security company: employees ask questions and get answers drawn from their own documents (manuals, contracts, quotes), with access restricted by department, 2FA and API keys. Shipped to production during my internship. |
+| [Job Aggregator](https://github.com/imran-nogueira/job-aggregator) | A job and internship board for students that collects offers, flags likely ghost jobs and ranks results against a plain-language search using AI. |
+| [CVRIE](https://github.com/imran-nogueira/cvrie-medical-ai) | A first version of a medical AI: it groups unlabeled patient testimonials into themes and classifies skin-lesion images into 7 diagnoses. |
+| [Alfred](https://github.com/imran-nogueira/alfred-llm-concierge) | A virtual concierge for a restaurant, answering customers around the clock on Telegram and Discord (menu, allergens, opening hours) with an AI model that runs entirely on local hardware. |
+| [brain-mcp](https://github.com/imran-nogueira/brain-mcp) | Gives Claude direct access to a structured record of my projects and skills, so any AI session can search and use it. Open source. |
+| [vps-dashboard](https://github.com/imran-nogueira/vps-dashboard) | A single page showing the status, memory, disk usage and monthly cost of a fleet of Hetzner cloud servers at a glance. Open source. |
 
 #### Also built
 
-[NextBuy](https://github.com/imran-nogueira/nextbuy-ecommerce-ml) (e-commerce analytics & recommendations) ·
-[TARDIS](https://github.com/imran-nogueira/tardis-train-delay-forecast) (train delay prediction) ·
-[Bookworm](https://github.com/imran-nogueira/bookworm-nlp-engine) (NLP engine) ·
-[Next Level](https://github.com/imran-nogueira/nextlevel-gaming-social) (product design → MVP)
+- [NextBuy](https://github.com/imran-nogueira/nextbuy-ecommerce-ml) — sales analysis and product recommendations for an online grocery store
+- [TARDIS](https://github.com/imran-nogueira/tardis-train-delay-forecast) — predicting train delays in France
+- [Bookworm](https://github.com/imran-nogueira/bookworm-nlp-engine) — automatic analysis of classic books
+- [Next Level](https://github.com/imran-nogueira/nextlevel-gaming-social) — a social app for gamers, from user research to MVP
 
 #### Stack
 
