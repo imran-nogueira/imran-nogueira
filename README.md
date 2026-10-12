@@ -1,19 +1,25 @@
-### Hi, I'm Imran
+<a href="https://imran-nogueira.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.png"><img alt="Imran Nogueira — Web development & applied AI" src="assets/profile-banner-light.png"></picture></a>
 
-Second-year **Epitech Bachelor** student in Mulhouse, working on **web development and applied AI** — from RAG assistants in production to classic machine learning and fullstack apps.
+<br>
 
 Looking for an **internship from April 2027**, then a **work-study position for 2027–2028**, in **France or Switzerland (Basel, Geneva)**.
 
 #### Featured
 
-| Project | What it is |
-|---|---|
-| [Enterprise RAG Platform](https://github.com/imran-nogueira/enterprise-rag-platform) | An internal AI assistant for a security company: employees ask questions and get answers drawn from their own documents (manuals, contracts, quotes), with access restricted by department, 2FA and API keys. Shipped to production during my internship. |
-| [Job Aggregator](https://github.com/imran-nogueira/job-aggregator) | A job and internship board for students that collects offers, flags likely ghost jobs and ranks results against a plain-language search using AI. |
-| [CVRIE](https://github.com/imran-nogueira/cvrie-medical-ai) | A first version of a medical AI: it groups unlabeled patient testimonials into themes and classifies skin-lesion images into 7 diagnoses. |
-| [Alfred](https://github.com/imran-nogueira/alfred-llm-concierge) | A virtual concierge for a restaurant, answering customers around the clock on Telegram and Discord (menu, allergens, opening hours) with an AI model that runs entirely on local hardware. |
-| [brain-mcp](https://github.com/imran-nogueira/brain-mcp) | Gives Claude direct access to a structured record of my projects and skills, so any AI session can search and use it. Open source. |
-| [vps-dashboard](https://github.com/imran-nogueira/vps-dashboard) | A single page showing the status, memory, disk usage and monthly cost of a fleet of Hetzner cloud servers at a glance. Open source. |
+<p>
+<a href="https://github.com/imran-nogueira/enterprise-rag-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-enterprise-rag-platform-dark.png"><img alt="Enterprise RAG Platform — AI assistant answering from a company's own documents." src="assets/card-enterprise-rag-platform-light.png" width="49%"></picture></a>
+<a href="https://github.com/imran-nogueira/job-aggregator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-job-aggregator-dark.png"><img alt="Job Aggregator — Student job board ranking offers with semantic search." src="assets/card-job-aggregator-light.png" width="49%"></picture></a>
+</p>
+
+<p>
+<a href="https://github.com/imran-nogueira/cvrie-medical-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cvrie-medical-ai-dark.png"><img alt="CVRIE — Clustering patient testimonials, classifying skin lesions." src="assets/card-cvrie-medical-ai-light.png" width="49%"></picture></a>
+<a href="https://github.com/imran-nogueira/alfred-llm-concierge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-alfred-llm-concierge-dark.png"><img alt="Alfred — Restaurant concierge running on a fully local LLM." src="assets/card-alfred-llm-concierge-light.png" width="49%"></picture></a>
+</p>
+
+<p>
+<a href="https://github.com/imran-nogueira/brain-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-brain-mcp-dark.png"><img alt="brain-mcp — Gives Claude direct access to a personal knowledge base." src="assets/card-brain-mcp-light.png" width="49%"></picture></a>
+<a href="https://github.com/imran-nogueira/vps-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vps-dashboard-dark.png"><img alt="vps-dashboard — Live status and cost of a Hetzner server fleet." src="assets/card-vps-dashboard-light.png" width="49%"></picture></a>
+</p>
 
 #### Also built
 
