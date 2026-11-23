@@ -27,6 +27,9 @@ Looking for an **internship from April 2027**, then a **work-study position for 
 - [TARDIS](https://github.com/imran-nogueira/tardis-train-delay-forecast) — predicting train delays in France
 - [Bookworm](https://github.com/imran-nogueira/bookworm-nlp-engine) — automatic analysis of classic books
 - [Next Level](https://github.com/imran-nogueira/nextlevel-gaming-social) — a social app for gamers, from user research to MVP
+- [Kagaribi](https://github.com/imran-nogueira/kagaribi-action-game) — a 2D action game built in object-oriented programming
+- [Codename](https://github.com/imran-nogueira/codename-prompt-injection-lab) — attacking and hardening a local LLM that guards a secret
+- [Star Trek Lunar Lander](https://github.com/imran-nogueira/starttrek-lunar-lander-rl) — two AI agents trained to land a spacecraft
 
 #### Stack
 
